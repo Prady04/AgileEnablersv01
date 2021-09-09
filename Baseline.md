@@ -1,6 +1,6 @@
 
 # Agile Enablers
-## From Vighneshs roadmap it is about 
+
 #####################
 ## Culture
 ## Communication 
