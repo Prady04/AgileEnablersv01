@@ -20,7 +20,7 @@
 * many tools available to measure. 
 
 # Baseline our tools 
-* importance of tools as Vighnesh rightly mentions is understated
+
 
 ## document the following 
 * Source control (e.g., Github, Gitlab, Bitbucket)
