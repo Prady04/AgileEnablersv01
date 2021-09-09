@@ -25,7 +25,7 @@
 ## document the following 
 * Source control (e.g., Github, Gitlab, Bitbucket)
 * Code reviews (e.g., pull requests, merge requests,    codewalkthroughs)
-12
+
 * Automated testing - CI (e.g., Jenkins, CircleCI, GitHub Actions)
 * Deployments - CD (e.g., AWS CodeDeploy, Harness, Jenkins)
 * Observability (e.g., Datadog, New Relic, CloudWatch)
